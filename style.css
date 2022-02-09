@@ -1,0 +1,119 @@
+.container{
+ margin-bottom: 30px;
+}
+.menuList{
+    margin-left: auto;
+}
+.form-control{
+    width: 300px;
+}
+.d-flex button{
+   width: 90px;
+   border: 1px solid gray;
+   color: gray;
+}
+
+.navbar-nav li{
+    padding-left: 15px;
+    
+}
+.navbar-nav li a{
+    color: gray;
+}
+.navbar-nav li a:hover{
+    background: green;
+   color: white;
+   text-align: center;
+   border-radius: 5px;
+   transition: 0.5s;
+}
+.slideImg img{
+    width: 100px;
+}
+.backgroundColor{
+    background-color:#fceae8 ;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: rgb(253, 74, 104);
+    font-weight: bold;
+}
+.slaidBtn{
+    background: rgb(253, 74, 104);
+    border: none;
+    border-radius: 5px;
+    padding: 5px 20px;
+    color: white;
+    font-weight: bold;
+}
+.slaid-title{
+    margin-bottom: 30px;
+}
+.cat1,.cat2,.cat3{
+    padding: 10px 30px;
+    border-radius: 20px;
+}
+.cat1{
+    
+    background-image: linear-gradient(rgb(248, 152, 43),rgb(184, 91, 16));
+    
+}
+.cat2{
+    
+    background-image: linear-gradient(rgb(241, 25, 169),rgb(95, 1, 87));
+    
+}
+.cat3{
+   
+    background-image: linear-gradient(rgb(113, 36, 255),rgb(2, 36, 110));
+    
+}
+.categoris h1{
+    color: white;
+
+    
+}
+.categoris img{
+    width: 100px;
+    margin-left: 40px;
+}
+.shoesList{
+    text-align: center;
+}
+.backpack{
+    text-align: center;
+}
+.backpack img{
+    width: 220px;
+    margin: auto;
+
+}
+.buynowBtn{
+    background-image: linear-gradient(rgb(98, 43, 248),rgb(60, 10, 126));
+    border: none;
+    width: 100px;
+}
+
+.subscribe{
+    height: 300px;
+}
+
+.subscribe-info h6{
+    padding-top: 10px;
+    color: gray;
+}
+.subscribe-info input{
+    border: 2px solid;
+    border-radius: 5px;
+    height: 35px;
+    margin-top: 15px;
+}
+.subscribeBtn{
+    background-color: blueviolet;
+    color: rgb(245, 200, 200);
+    border-radius: 10px;
+    height: 35px;
+}
